@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoAnMobile.iml" filepath="$PROJECT_DIR$/DoAnMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuanLyHangHoa.iml" filepath="$PROJECT_DIR$/.idea/modules/QuanLyHangHoa.iml" group="QuanLyHangHoa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuanLyHangHoa-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuanLyHangHoa-app.iml" group="QuanLyHangHoa/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
